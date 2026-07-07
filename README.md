@@ -32,53 +32,27 @@ Kingdom-Hush represents my early experience in designing interactive systems, so
 
 <h2 align="center">Tower Demos</h2>
 
-<div align="center">
+<p align="center">
+  <img src="assets/archer_demo.gif" width="250"/>
+  <img src="assets/mortar_demo.gif" width="250"/>
+  <img src="assets/wizard_demo.gif" width="250"/>
+</p>
 
-<table>
-<tr>
+<p align="center">
+  <b>Archer Tower</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Mortar</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Wizard Tower</b>
+</p>
 
-<td align="center" width="33%">
-<img src="assets/archer_demo.gif" width="280"/>
-<br/>
-<b>Archer Tower</b>
-</td>
 
-<td align="center" width="33%">
-<img src="assets/mortar_demo.gif" width="280"/>
-<br/>
-<b>Mortar</b>
-</td>
+<p align="center">
+  <img src="assets/demo4.gif" width="250"/>
+  <img src="assets/demo5.gif" width="250"/>
+  <img src="assets/demo6.gif" width="250"/>
+</p>
 
-<td align="center" width="33%">
-<img src="assets/wizard_demo.gif" width="280"/>
-<br/>
-<b>Wizard Tower</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-<img src="assets/demo4.gif" width="280"/>
-<br/>
-<b>Demo 4</b>
-</td>
-
-<td align="center" width="33%">
-<img src="assets/demo5.gif" width="280"/>
-<br/>
-<b>Demo 5</b>
-</td>
-
-<td align="center" width="33%">
-<img src="assets/demo6.gif" width="280"/>
-<br/>
-<b>Demo 6</b>
-</td>
-
-</tr>
-
-</table>
-
-</div>
+<p align="center">
+  <b>Demo 4</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Demo 5</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Demo 6</b>
+</p>
