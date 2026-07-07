@@ -32,57 +32,77 @@ Kingdom-Hush represents my early experience in designing interactive systems, so
 
 <h2 align="center">Tower Demos</h2>
 
-<div align="center">
-
 <table>
+
 <tr>
 
-<td align="center" width="50%">
-<img src="assets/archer_demo.gif" width="320"/>
-<br/>
-<b>Archer Tower</b>
+<td width="55%" align="center">
+<img src="assets/archer_demo.gif" width="450"/>
 </td>
 
-<td align="center" width="50%">
-<img src="assets/mortar_demo.gif" width="320"/>
-<br/>
-<b>Mortar</b>
+<td width="45%">
+
+### Archer Tower
+
+A fast defensive tower focused on single-target damage.
+
+**Implemented systems:**
+- Target detection and enemy tracking
+- Attack range calculation
+- Projectile creation and movement
+- Damage handling and enemy interaction
+- Real-time combat updates
+
 </td>
 
 </tr>
 
+
 <tr>
 
-<td align="center" width="50%">
-<img src="assets/wizard_demo.gif" width="320"/>
-<br/>
-<b>Wizard Tower</b>
+<td width="55%" align="center">
+<img src="assets/mortar_demo.gif" width="450"/>
 </td>
 
-<td align="center" width="50%">
-<img src="assets/demo4.gif" width="320"/>
-<br/>
-<b>Demo 4</b>
+<td width="45%">
+
+### Mortar Tower
+
+A heavy defensive structure designed for area damage.
+
+**Implemented systems:**
+- Projectile trajectory and timing
+- Splash damage mechanics
+- Area-of-effect collision detection
+- Multiple enemy interaction
+- Combat state management
+
 </td>
 
 </tr>
 
+
 <tr>
 
-<td align="center" width="50%">
-<img src="assets/demo5.gif" width="320"/>
-<br/>
-<b>Demo 5</b>
+<td width="55%" align="center">
+<img src="assets/wizard_demo.gif" width="450"/>
 </td>
 
-<td align="center" width="50%">
-<img src="assets/demo6.gif" width="320"/>
-<br/>
-<b>Demo 6</b>
+<td width="45%">
+
+### Wizard Tower
+
+A magic-based tower featuring special effects and unique attacks.
+
+**Implemented systems:**
+- Custom attack behavior
+- Visual effects integration
+- Enemy targeting logic
+- Animation handling
+- Ability-specific mechanics
+
 </td>
 
 </tr>
 
 </table>
-
-</div>
