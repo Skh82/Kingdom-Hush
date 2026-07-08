@@ -1,3 +1,20 @@
+# Kingdom-Hush
+
+<p align="center">
+  <img src="assets/cover.png" width="900"/>
+</p>
+
+<p align="center">
+  A Python-based tower defense game built from scratch using Pygame.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-blue"/>
+  <img src="https://img.shields.io/badge/Pygame-green"/>
+  <img src="https://img.shields.io/badge/Game%20Development-orange"/>
+</p>
+
+
 ## About the Project
 
 **Kingdom-Hush** is an original tower-defense game developed during my third semester in 2023 as a personal challenge to expand my programming and game development abilities.
@@ -132,7 +149,7 @@ A specialized tower using both electrical and fire attacks to control groups of 
 <tr>
 
 <td width="60%" align="center">
-<img src="assets/samsher_demo.gif" width="450"/>
+<img src="assets/smasher_demo.gif" width="450"/>
 </td>
 
 <td width="40%">
