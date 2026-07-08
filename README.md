@@ -51,7 +51,7 @@ A fast defensive tower focused on single-target damage.
 - Attack range calculation
 - Projectile creation and movement
 - Damage handling and enemy interaction
-- Real-time combat updates
+- Multiple enemies attack handling
 
 </td>
 
@@ -114,16 +114,15 @@ A magic-based tower featuring special effects and unique attacks.
 
 <td width="40%">
 
-### Electro Tower
+### Flectro Tower
 
-A specialized tower using electrical attacks to control groups of enemies.
+A specialized tower using both electrical and fire attacks to control groups of enemies.
 
 **Implemented systems:**
 - Chain-based attack behavior
 - Dynamic target selection
 - Effect timing and visual feedback
-- Multi-target damage handling
-- Cooldown and attack state logic
+- Fire and Electrical attack based on level
 
 </td>
 
@@ -147,7 +146,7 @@ A powerful close-range defensive unit designed for heavy impact attacks.
 - Enemy proximity detection
 - Impact-based damage calculation
 - Attack animation synchronization
-- Enemy state interaction
+- Enemy freeze briefly
 
 </td>
 
@@ -164,7 +163,7 @@ A powerful close-range defensive unit designed for heavy impact attacks.
 
 ### Inferno Tower
 
-An advanced defensive structure focused on sustained high damage output.
+An advanced defensive structure focused on sustained high damage output that increases over time.
 
 **Implemented systems:**
 - Continuous damage mechanics
