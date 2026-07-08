@@ -47,6 +47,10 @@ The project was recognized as one of the strongest submissions in the course and
 
 Kingdom-Hush represents my early experience in designing interactive systems, solving complex programming challenges, and developing complete software projects from the ground up.
 
+> [!NOTE]
+> The GIFs below demonstrate the mechanics of each tower.  
+> Please wait a few seconds for them to fully load.
+
 <h2 align="center">Tower Demos</h2>
 
 <table>
