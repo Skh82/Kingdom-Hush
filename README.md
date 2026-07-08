@@ -1,7 +1,7 @@
 # Kingdom-Hush
 
 <p align="center">
-  <img src="assets/cover.png" width="900"/>
+  <img src="demos/cover.png" width="900"/>
 </p>
 
 <p align="center">
