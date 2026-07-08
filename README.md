@@ -132,7 +132,7 @@ A specialized tower using both electrical and fire attacks to control groups of 
 <tr>
 
 <td width="60%" align="center">
-<img src="assets/smasher_demo.gif" width="450"/>
+<img src="assets/samsher_demo.gif" width="450"/>
 </td>
 
 <td width="40%">
