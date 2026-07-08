@@ -54,7 +54,7 @@ Kingdom-Hush represents my early experience in designing interactive systems, so
 <tr>
 
 <td width="60%" align="center">
-<img src="assets/archer_demo.gif" width="450"/>
+<img src="demos/archer_demo.gif" width="450"/>
 </td>
 
 <td width="40%">
@@ -78,7 +78,7 @@ A fast defensive tower focused on single-target damage.
 <tr>
 
 <td width="60%" align="center">
-<img src="assets/mortar_demo.gif" width="450"/>
+<img src="demos/mortar_demo.gif" width="450"/>
 </td>
 
 <td width="40%">
@@ -102,7 +102,7 @@ A heavy defensive structure designed for area damage.
 <tr>
 
 <td width="60%" align="center">
-<img src="assets/wizard_demo.gif" width="450"/>
+<img src="demos/wizard_demo.gif" width="450"/>
 </td>
 
 <td width="40%">
@@ -126,7 +126,7 @@ A magic-based tower featuring special effects and unique attacks.
 <tr>
 
 <td width="60%" align="center">
-<img src="assets/flectro_demo.gif" width="450"/>
+<img src="demos/flectro_demo.gif" width="450"/>
 </td>
 
 <td width="40%">
@@ -149,7 +149,7 @@ A specialized tower using both electrical and fire attacks to control groups of 
 <tr>
 
 <td width="60%" align="center">
-<img src="assets/smasher_demo.gif" width="450"/>
+<img src="demos/smasher_demo.gif" width="450"/>
 </td>
 
 <td width="40%">
@@ -173,7 +173,7 @@ A powerful close-range defensive unit designed for heavy impact attacks.
 <tr>
 
 <td width="60%" align="center">
-<img src="assets/inferno_demo.gif" width="450"/>
+<img src="demos/inferno_demo.gif" width="450"/>
 </td>
 
 <td width="40%">
